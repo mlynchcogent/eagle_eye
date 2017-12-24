@@ -1,7 +1,8 @@
 #!/bin/bash
 #By Shadow Brokers (#BEN)
 #Official Channel: https://goo.gl/6eym7i
-#64_bit
+
+#64_Bit
 #xterm -e ./ngrok_64 http 80 & clear
 
 #32_Bit
